@@ -40,12 +40,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <table style="border: none">
-    <tr style="border: none">
-      <td style="border: none"> <img src="https://github-readme-stats.vercel.app/api?username=armandabecilla&show_icons=true&theme=radical" alt="GitHub Stats" /></td>
-      <td style="border: none"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandabecilla&layout=compact&theme=radical" alt="Top Languages" /></td>
-    </tr>
-  </table>
+   <img src="https://github-readme-stats.vercel.app/api?username=armandabecilla&show_icons=true&theme=radical" alt="GitHub Stats" /> &nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandabecilla&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
