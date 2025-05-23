@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -35,12 +37,20 @@
 
 ---
 
-### 🌐 Check out my work
-🔗 [armandabecilla.vercel.app](https://armandabecilla.vercel.app/)
+### 📊 GitHub Stats
+
+<p align="center">
+  <table>
+    <tr>
+      <td> <img src="https://github-readme-stats.vercel.app/api?username=armandabecilla&show_icons=true&theme=radical" alt="GitHub Stats" /></td>
+      <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandabecilla&layout=compact&theme=radical" alt="Top Languages" /></td>
+    </tr>
+  </table>
+</p>
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armandabecilla&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+### 🌐 Check out my work
+🔗 [armandabecilla.vercel.app](https://armandabecilla.vercel.app/)
+
+
